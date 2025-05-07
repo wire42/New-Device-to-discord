@@ -98,7 +98,5 @@ IEEE OUI Database
 
 PowerShell community for parallel scanning techniques
 
-Example Discord Alert
-![Discord alert example](https://i.imguace with your own screenshot if desired -->
 
 
