@@ -92,10 +92,8 @@ No Discord alerts: Double-check your webhook URL and Discord channel permissions
 
 Permission errors: Run PowerShell as Administrator.
 
-License
-MIT License (or specify your preferred license)
+Credits,
 
-Credits
 IEEE OUI Database
 
 PowerShell community for parallel scanning techniques
@@ -103,4 +101,4 @@ PowerShell community for parallel scanning techniques
 Example Discord Alert
 ![Discord alert example](https://i.imguace with your own screenshot if desired -->
 
-Questions or suggestions? Open an issue or contact the script author!
+
